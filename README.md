@@ -1,6 +1,6 @@
-I understand. Let's ensure everything is correctly formatted in Markdown for direct copying and pasting into your GitHub README. Here's the updated README:
 
-```markdown
+
+```
 # JikoTrack: A Web-Based Solution for Small Restaurant Management
 
 ## Overview
