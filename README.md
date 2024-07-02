@@ -1,6 +1,4 @@
 
-
-```
 # JikoTrack: A Web-Based Solution for Small Restaurant Management
 
 ## Overview
